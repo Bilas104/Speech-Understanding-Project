@@ -1,0 +1,16 @@
+MAE: 0.1381
+R² Score (Avg): 0.2044
+   - O: MAE=0.1071, R²=0.2114
+   - C: MAE=0.1421, R²=-0.0663
+   - E: MAE=0.1472, R²=0.3262
+   - A: MAE=0.0959, R²=0.2317
+   - N: MAE=0.1983, R²=0.3190
+
+Accuracy with threshold ±0.10
+   - O: 96.77%
+   - C: 93.43%
+   - E: 89.53%
+   - A: 98.55%
+   - N: 77.84%
+
+ All-trait (sample-level) accuracy: 68.49%
